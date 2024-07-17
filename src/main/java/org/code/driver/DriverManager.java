@@ -1,4 +1,4 @@
-package org.CODE.driver;
+package org.code.driver;
 
 public class DriverManager {
 }

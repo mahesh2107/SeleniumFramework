@@ -1,4 +1,4 @@
-package org.CODE.pages.POM;
+package org.code.pages.POM;
 
 public class DashboardPage_POM {
 }

@@ -1,4 +1,4 @@
-package org.CODE.utils;
+package org.code.utils;
 
 public class PropertyReader {
 }

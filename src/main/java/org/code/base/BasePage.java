@@ -1,4 +1,4 @@
-package org.CODE.base;
+package org.code.base;
 
 public class BasePage {
 }
